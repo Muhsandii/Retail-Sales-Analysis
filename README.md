@@ -1,9 +1,9 @@
-# Retail Sales
+## Retail Sales
 
 **Overview:**
 This dataset captures essential details about transactions, customer demographics, and product sales. These attributes provide a strong foundation for understanding customer behavior, identifying trends, and evaluating the financial impact of retail activities.
 
-## Key Attributes
+### Key Attributes
 
 The dataset includes the following critical attributes, each contributing valuable insights into customer behavior, sales performance, and demographic patterns:
 
